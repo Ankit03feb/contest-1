@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+
+.first{
+    background-color: black;
+    height: 87px;
+
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+}
+nav{
+    color:white;
+    padding: 38px;
+}
+.Acciojob {
+    height: 15px;
+   
+    left: 38px;
+    top: 140px;
+    border-radius: nullpx;
+    margin-left: 38px;
+  
+  
+    
+}
+ 
+    
+
+button{
+    width: 150px;
+   
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
